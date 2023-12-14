@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="Principal"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/menu_Alimentacion"
+        android:title="Alimentar"
+        android:icon="@drawable/ic_biberon"/>
+    <item
+        android:id="@+id/menu_Sueño"
+        android:title="Sueño"
+        android:icon="@drawable/ic_luna" />
+    <item
+        android:id="@+id/menu_Guias"
+        android:title="Guias"
+        android:icon="@drawable/ic_book" />
+    <item
+        android:id="@+id/menu_user"
+        android:title="Perfil"
+        android:icon="@drawable/ic_user" />
+
+
+
+</menu>
